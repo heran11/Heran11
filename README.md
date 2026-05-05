@@ -21,5 +21,5 @@
 ---
 
 ## 📫 Contact
-- 📧 heranjai45@gmail.com
+- 📧 heranbarathi@gmail.com
 - 🌐 https://heran11.github.io/portfolio-Heran
