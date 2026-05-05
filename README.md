@@ -1,5 +1,4 @@
-<img src="heran profile" width="100%" />
-
+<img src="heran%20profile.png" width="100%" />
 <h1 align="center">Hi 👋, I'm Heran</h1>
 <h3 align="center">Aspiring AI Engineer | Data Science & GenAI 🚀</h3>
 
