@@ -1,16 +1,25 @@
-## Hi there 👋
+<img src="YOUR_BANNER_LINK" width="100%" />
 
-<!--
-**heran11/Heran11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Heran</h1>
+<h3 align="center">Aspiring AI Engineer | Data Science & GenAI 🚀</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎯 Focused on Data Science & Generative AI  
+- 🤖 ML • DL • NLP • OpenCV  
+- 🔥 Exploring RAG & LLM  
+- 📍 Chennai, India  
+
+---
+
+## 🚀 Projects
+- Emotion Detection (OpenCV + DL)
+- NLP Text Classifier
+- RAG Document Q&A System
+
+---
+
+## 📫 Contact
+- 📧 heranjai45@gmail.com
+- 🌐 https://heran11.github.io/portfolio-Heran
